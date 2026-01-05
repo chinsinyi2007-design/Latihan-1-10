@@ -1,0 +1,2 @@
+price = float(input("Enter the price of item in RM:"));
+item = input("Enter the quantity of the item:");
