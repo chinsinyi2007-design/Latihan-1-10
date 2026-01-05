@@ -1,0 +1,8 @@
+student_name = input("Enter the student name:")
+a = float(input("Enter the mark of subject 1:"));
+b = float(input("Enter the mark of subject 2:"));
+c = float(input("Enter the mark of subject 3:"));
+total_mark = a + b + c
+averange_mark = total_mark/3
+print("Total mark:",total_mark)
+print("Averange mark:",averange_mark)
